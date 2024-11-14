@@ -1,0 +1,9 @@
+Decriptive Statistics					
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	N	mean	sd	min	max
+					
+gift_mave	15,713	10,882	5,278	1,906	32,898
+gift_fave	15,713	4,187	1,658	2,018	8,759
+mar_b20	15,713	0.113	0.317	0	1
+mar_b24	15,713	0.672	0.469	0	1
+					

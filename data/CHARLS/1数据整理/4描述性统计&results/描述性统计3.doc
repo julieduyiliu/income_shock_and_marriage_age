@@ -1,0 +1,18 @@
+{\rtf1\fs24
+\pard\qc
+Decriptive Statistics(Lower BP\par
+)\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1440\clbrdrt\brdrs\cellx2304\clbrdrt\brdrs\cellx3168\clbrdrt\brdrs\cellx4032\clbrdrt\brdrs\cellx4896\clbrdrt\brdrs\cellx5760
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1440\cellx2304\cellx3168\cellx4032\cellx4896\cellx5760
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1440\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4032\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx5760
+\ql VARIABLES\cell\qc N\cell\qc mean\cell\qc sd\cell\qc min\cell\qc max\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1440\cellx2304\cellx3168\cellx4032\cellx4896\cellx5760
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql gift_mave\cell\qc 7,450\cell\qc 6,338\cell\qc 2,309\cell\qc 1,906\cell\qc 9,691\cell\row
+\ql gift_fave\cell\qc 7,450\cell\qc 3,429\cell\qc 1,195\cell\qc 2,018\cell\qc 5,876\cell\row
+\ql mar_b20\cell\qc 7,450\cell\qc 0.113\cell\qc 0.317\cell\qc 0\cell\qc 1\cell\row
+\ql mar_b24\cell\qc 7,450\cell\qc 0.670\cell\qc 0.470\cell\qc 0\cell\qc 1\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1440\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4032\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx5760
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+}

@@ -1,0 +1,28 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2016\clbrdrt\brdrs\cellx3600\clbrdrt\brdrs\cellx5184\clbrdrt\brdrs\cellx6768
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2016\cellx3600\cellx5184\cellx6768
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2016\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx6768
+\ql VARIABLES\cell\qc mar_age\cell\qc mar_age\cell\qc mar_age\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2016\cellx3600\cellx5184\cellx6768
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql L3.shock\cell\qc 0.001\cell\qc 0.001\cell\qc -0.001**\cell\row
+\ql \cell\qc (1.37)\cell\qc (0.77)\cell\qc (-1.99)\cell\row
+\ql L2.shock\cell\qc 0.000\cell\qc -0.000\cell\qc -0.002**\cell\row
+\ql \cell\qc (0.28)\cell\qc (-0.44)\cell\qc (-2.13)\cell\row
+\ql L.shock\cell\qc -0.001\cell\qc -0.002***\cell\qc -0.003***\cell\row
+\ql \cell\qc (-1.24)\cell\qc (-2.64)\cell\qc (-3.50)\cell\row
+\ql shock\cell\qc -0.002**\cell\qc -0.003***\cell\qc -0.003***\cell\row
+\ql \cell\qc (-2.52)\cell\qc (-3.79)\cell\qc (-4.56)\cell\row
+\ql Constant\cell\qc 22.426***\cell\qc 22.453***\cell\qc 22.494***\cell\row
+\ql \cell\qc (1,553.56)\cell\qc (1,469.22)\cell\qc (1,488.19)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 56,396\cell\qc 56,396\cell\qc 56,396\cell\row
+\ql R-squared\cell\qc 0.072\cell\qc 0.189\cell\qc 0.243\cell\row
+\ql Location FE\cell\qc NO\cell\qc YES\cell\qc YES\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2016\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx6768
+\ql Birth Year FE\cell\qc YES\cell\qc NO\cell\qc YES\cell\row
+\pard\qc
+t-statistics in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

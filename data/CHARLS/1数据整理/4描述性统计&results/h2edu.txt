@@ -1,0 +1,20 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	No Formal Education	Elementrary School	Secondary School	Higher Education
+				
+L3.shock	-0.001	0.000	-0.003**	-0.001
+	(-0.90)	(0.29)	(-2.54)	(-0.98)
+L2.shock	-0.002	0.000	-0.003**	-0.002
+	(-1.17)	(0.29)	(-2.47)	(-1.44)
+L.shock	-0.003*	-0.001	-0.003**	-0.003**
+	(-1.83)	(-1.11)	(-2.55)	(-2.29)
+shock	-0.004***	-0.002*	-0.003**	-0.004**
+	(-2.72)	(-1.74)	(-2.11)	(-2.45)
+Constant	22.056***	22.366***	22.880***	22.709***
+	(696.07)	(946.23)	(875.18)	(762.55)
+				
+Observations	11,988	21,819	14,451	8,126
+R-squared	0.382	0.320	0.406	0.554
+Location FE	NO	YES	YES	YES
+Birth Year FE	YES	YES	YES	YES
+t-statistics in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
